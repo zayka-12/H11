@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\GIT\H11\bin\Debug\net6.0\H11.exe
+C:\Users\Admin\Desktop\GIT\H11\bin\Debug\net6.0\H11.deps.json
+C:\Users\Admin\Desktop\GIT\H11\bin\Debug\net6.0\H11.runtimeconfig.json
+C:\Users\Admin\Desktop\GIT\H11\bin\Debug\net6.0\H11.dll
+C:\Users\Admin\Desktop\GIT\H11\bin\Debug\net6.0\H11.pdb
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.AssemblyInfo.cs
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.dll
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\refint\H11.dll
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.pdb
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\H11.genruntimeconfig.cache
+C:\Users\Admin\Desktop\GIT\H11\obj\Debug\net6.0\ref\H11.dll
